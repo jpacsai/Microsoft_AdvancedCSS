@@ -3,11 +3,21 @@
 **Coursework for Microsoft - Advanced CSS Concepts course on edX**
 
 ## Module 1 - Responsive Layout Using Media Queries
-_Objectives_
-- Look at Designs and Start to See the Underlying Layout
-- Build a Semantic HTML and CSS Foundation
-- Analyze Style Guides to Build Your Base CSS
-- Use Media Queries to Create a Responsive Grid System
+
+  _Objectives_
+  - Look at Designs and Start to See the Underlying Layout
+  - Build a Semantic HTML and CSS Foundation
+  - Analyze Style Guides to Build Your Base CSS
+  - Use Media Queries to Create a Responsive Grid System
+
+
+  - [ ] Resource Content: Building a Responsive Layout
+  - [ ] Module Labs: Overview and Required Configuration Steps
+  - [ ] Tutorial Lab: Planning and Designing a Layout
+  - [ ] Tutorial Lab: Building a Semantic HTML and CSS Foundation
+  - [ ] Tutorial Lab: Analyzing Style Guides to Build Your Base CSS
+  - [ ] Tutorial Lab: Using Media Queries to Create a Responsive Grid System
+  - [ ] Self-Assessment Lab: Build a Fluid Layout from a Wireframe
 
 ## Module 2 - CSS Modules and High Fidelity Designs
 _Objectives_
