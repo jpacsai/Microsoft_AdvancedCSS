@@ -58,6 +58,17 @@ Layout Styles
   max-width: 1170px;
 }
 
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 /***************************
 ****************************
 Module Styles
