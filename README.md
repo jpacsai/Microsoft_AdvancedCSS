@@ -4,13 +4,13 @@
 
 ## Module 1 - Responsive Layout Using Media Queries
 
-  _Objectives_
+  ### Objectives
   - Look at Designs and Start to See the Underlying Layout
   - Build a Semantic HTML and CSS Foundation
   - Analyze Style Guides to Build Your Base CSS
   - Use Media Queries to Create a Responsive Grid System
 
-
+  ### Sections
   - [ ] Resource Content: Building a Responsive Layout
   - [ ] Module Labs: Overview and Required Configuration Steps
   - [ ] Tutorial Lab: Planning and Designing a Layout
