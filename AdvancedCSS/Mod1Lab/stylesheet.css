@@ -41,8 +41,13 @@ a {
   color: #8dc63f;
   font-weight: bold;
 }
+
 a:hover {
   text-decoration: underline;
+}
+
+.divider {
+  display: none;
 }
 
 /***************************
@@ -92,6 +97,10 @@ footer .container {
   color: #ffffff;
 }
 
+.empty {
+  height: 1px;
+}
+
 
 @media (min-width: 48em) {
   [class*='col-'] {
@@ -111,6 +120,22 @@ footer .container {
   /* Column Half */
   .col-1-2 {
     width: 50%;
+  }
+
+  .col-1-12 {
+    width: 8.3333%;
+  }
+
+  .col-1-4 {
+    width: 25%;
+  }
+
+  .col-1-6 {
+    width: 16.6666%;
+  }
+
+  .divider {
+    display: block;
   }
 }
 
