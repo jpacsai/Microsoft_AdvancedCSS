@@ -75,6 +75,24 @@ Layout Styles
   padding-right: 15px;
 }
 
+/* Testimonial Section */
+/*
+#testimonial {
+  height: 460px;
+  padding: 40px 0;
+}
+
+#testimonial .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+*/
+footer .container {
+  color: #ffffff;
+}
+
+
 @media (min-width: 48em) {
   [class*='col-'] {
     float: left;
@@ -89,11 +107,16 @@ Layout Styles
   .col-2-3 {
     width: 66.6666%;
   }
+
+  /* Column Half */
+  .col-1-2 {
+    width: 50%;
+  }
 }
 
 @media (min-width: 48em) {
   .pull-right-sm {
-    float:right;
+    float: right;
   } 
 }
 
@@ -124,4 +147,8 @@ Theme Styles
   }
   .background-tertiary {
     background: #8DC63F; /*Green*/
+  }
+
+  .background-quaternary {
+    background: #594a42; /*Brown*/
   }
