@@ -103,6 +103,21 @@ Modules
   padding-bottom: 18px;
 }
 
+/*Logo Modules*/
+.logo {
+  overflow: hidden;
+  display: inline-block;
+}
+
+.logo-primary {
+  width: 64px;
+  height: 64px;
+}
+
+.logo-primary img {
+  height: 100%;
+}
+
 /*Button Modules*/
 .btn {
   display: inline-block;
