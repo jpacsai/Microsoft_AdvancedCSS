@@ -118,6 +118,17 @@ Modules
   height: 100%;
 }
 
+/*Navigation Modules*/
+.nav > ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+.nav-primary {
+  margin-top: 35px;
+}
+
 /*Button Modules*/
 .btn {
   display: inline-block;
@@ -145,6 +156,10 @@ Modules
   background: none;
   border-color: white;
   text-decoration: none;
+}
+
+.btn-nav {
+  color: white;
 }
 
 /***************************
