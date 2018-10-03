@@ -110,6 +110,18 @@ Modules
   border-radius: 4px;
 }
 
+.btn-primary {
+  background: #8DC63F;
+  border-color: #8DC63F;
+  color: white;
+}
+
+.btn-primary:hover {
+  background: none;
+  border-color: white;
+  text-decoration: none;
+}
+
 /***************************
 ****************************
 Theme Styles
