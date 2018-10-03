@@ -219,10 +219,6 @@ Modules
   padding-bottom: 25px;
 }
 
-.hero-primary.bg-image > img {
-  opacity: 0.55;
-}
-
 .hero-body {
   position: relative;
 }
@@ -258,7 +254,19 @@ Modules
   right: -9999px;
   margin: auto;
   min-width: 100%;
+  opacity: 0.55;
 }
+
+/*Testimonial Module*/
+.testimonial {
+  text-align: center;
+  padding: 40px 0;
+  height: 460px;
+  color: #ffffff;
+  position: relative;
+}
+
+
 
 /*Media Object Module*/
 .media, .media-body {
