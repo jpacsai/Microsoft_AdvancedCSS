@@ -127,6 +127,13 @@ Modules
 
 .nav-primary {
   margin-top: 35px;
+  display: none;
+}
+
+@media (min-width: 48em) {
+  .nav-primary {
+    display: block;
+  }
 }
 
 /*Button Modules*/
@@ -166,6 +173,12 @@ Modules
   position: absolute;
   top: 15px;
   right: 15px;
+}
+
+@media (min-width: 48em) {
+  .btn-toggle-menu {
+    display: none;
+  }
 }
 
 /***************************
