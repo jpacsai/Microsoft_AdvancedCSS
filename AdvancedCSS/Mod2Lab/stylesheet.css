@@ -162,6 +162,12 @@ Modules
   color: white;
 }
 
+.btn-toggle-menu {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+
 /***************************
 ****************************
 Theme Styles
