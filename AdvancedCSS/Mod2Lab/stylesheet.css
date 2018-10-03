@@ -108,6 +108,7 @@ Modules
   font-size: 1.313em;
   font-weight: bold;
   border-radius: 4px;
+  transition: all 0.3s ease 0s;
 }
 
 .btn-primary {
