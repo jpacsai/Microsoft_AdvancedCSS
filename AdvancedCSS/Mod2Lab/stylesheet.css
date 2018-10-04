@@ -196,6 +196,10 @@ Modules
   background-color: #ffffff;
 }
 
+.btn-media {
+  margin-top: 40px;
+}
+
 @media (min-width: 48em) {
   .btn-nav {
     padding: 10px 15px;
@@ -275,6 +279,16 @@ Modules
 }
 
 /*Media Object Module*/
+.media-section {
+  height: 696px;
+  padding: 40px 0;
+}
+
+.media {
+  padding: 40px 0;
+  margin-top: -40px;
+}
+
 .media, .media-body {
   overflow: hidden;
 }
@@ -282,11 +296,30 @@ Modules
 .media-item {
   float: left;
   margin-right: 10px;
+  font-size: 200%;
+  width: 200px;
 }
 
 .media-item i {
   color: #594a42;
   font-size: 5em;
+}
+
+.media-body {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  height: 100%;
+}
+
+.media-heading {
+  font-size: 28px;
+  margin: 0;
+}
+
+.media-text p {
+  margin: 0;
+  font-size: 20px;
 }
 
 /* Testimonial Module*/
