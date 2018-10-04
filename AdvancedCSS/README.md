@@ -20,6 +20,8 @@
   - [x] Tutorial Lab: Using Media Queries to Create a Responsive Grid System
   - [x] Self-Assessment Lab: Build a Fluid Layout from a Wireframe
   
+***
+  
   ## Module 2 - CSS Modules and High Fidelity Designs
   
   ### [Link](https://github.com/jpacsai/Microsoft_courses/tree/master/AdvancedCSS/Mod2Lab) to work
@@ -33,16 +35,20 @@
   ### Sections
   - [x] Resource Content: Building the Base and CSS Modules
   - [x] Tutorial Lab: Build the Base Button Module
-  - [ ] Tutorial Lab: Build the Mobile Header, Logo and Navigation
-  - [ ] Tutorial Lab: Build the Hero Section and Background Image
-  - [ ] Tutorial Lab: Build a Media Object that Includes an Icon Font
-  - [ ] Self-Assessment Lab: Enhancing Your CSS Modules
+  - [x] Tutorial Lab: Build the Mobile Header, Logo and Navigation
+  - [x] Tutorial Lab: Build the Hero Section and Background Image
+  - [x] Tutorial Lab: Build a Media Object that Includes an Icon Font
+  - [x] Self-Assessment Lab: Enhancing Your CSS Modules
+
+***
 
 ## Module 3 - Sass/Less and Preprocessing
   ### Objectives
   - Getting Started Transpiling SCSS into CSS and Setting Up File Structure
   - Build Desktop Header Section with Variables and Media Query Mixins
   - Create the Circle Image Frame Module and Color Mask Module
+
+***
 
 ## Module 4 - Supporting Browsers and Devices
   ### Objectives
