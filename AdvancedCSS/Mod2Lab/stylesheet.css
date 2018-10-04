@@ -198,6 +198,8 @@ Modules
 
 .btn-media {
   margin-top: 40px;
+  flex-grow: initial;
+  align-self: flex-start;
 }
 
 @media (min-width: 48em) {
@@ -298,6 +300,13 @@ Modules
   margin-right: 10px;
   font-size: 200%;
   width: 200px;
+}
+
+@media (min-width: 48em) {
+  .media-item {
+    display: flex;
+    justify-content: center;
+  }
 }
 
 .media-item i {
