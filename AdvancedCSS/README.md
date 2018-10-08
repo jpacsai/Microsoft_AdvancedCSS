@@ -2,9 +2,11 @@
 
 **Coursework for Microsoft - Advanced CSS Concepts course on edX**
 
+***
+
 ## Module 1 - Responsive Layout Using Media Queries
 
-  ### [Link](https://github.com/jpacsai/Microsoft_courses/tree/master/AdvancedCSS/Mod1Lab) to work
+  ### 🔗 Link to [work](https://github.com/jpacsai/Microsoft_courses/tree/master/AdvancedCSS/Mod1Lab), to [notes](https://github.com/jpacsai/MyNotes/tree/master/Advanced%20CSS%20Concepts)
 
   ### Objectives
   - Look at Designs and Start to See the Underlying Layout
@@ -24,7 +26,7 @@
   
   ## Module 2 - CSS Modules and High Fidelity Designs
   
-  ### [Link](https://github.com/jpacsai/Microsoft_courses/tree/master/AdvancedCSS/Mod2Lab) to work
+  ### 🔗 Link to [work](https://github.com/jpacsai/Microsoft_courses/tree/master/AdvancedCSS/Mod2Lab), to [notes](https://github.com/jpacsai/MyNotes/tree/master/Advanced%20CSS%20Concepts)
   
   ### Objectives
   - Build the Base Button Module and Extend it to Button Primary
@@ -43,11 +45,22 @@
 ***
 
 ## Module 3 - Sass/Less and Preprocessing
+
+  ### 🔗 Link to [work](https://github.com/jpacsai/Microsoft_courses/tree/master/AdvancedCSS/Mod3Lab), to [notes](https://github.com/jpacsai/MyNotes/blob/master/Advanced%20CSS%20Concepts/Module%203.one)
+  
   ### Objectives
   - Getting Started Transpiling SCSS into CSS and Setting Up File Structure
   - Build Desktop Header Section with Variables and Media Query Mixins
   - Create the Circle Image Frame Module and Color Mask Module
 
+  ### Sections
+  - [ ] Resource Content: CSS Preprocessing Tools
+  - [ ] Tutorial Lab: Getting Started Transpiling SCSS into CSS
+  - [ ] Tutorial Lab: Build Desktop Header Section with Variables and Media Query Mixins
+  - [ ] Tutorial Lab: Create the Circle Image Frame Module and Color Mask Module
+  - [ ] Tutorial Lab: Create the Circle Image Frame Module and Color Mask Module
+  - [ ] Self-Assessment Lab: Updating Your CSS with Sass
+  
 ***
 
 ## Module 4 - Supporting Browsers and Devices
