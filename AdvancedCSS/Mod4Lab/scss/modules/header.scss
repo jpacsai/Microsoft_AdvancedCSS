@@ -6,6 +6,7 @@ Header
   text-align: center;
   padding-top: 18px;
   padding-bottom: 18px;
+
   @include small-and-above {
     background: none;
     position: absolute;
@@ -15,6 +16,10 @@ Header
       content: "";
       display: table;
       clear: both;
+    }
+
+    .container {
+      @include flexbox-display();
     }
   }
 }
