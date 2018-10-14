@@ -54,12 +54,12 @@
   - Create the Circle Image Frame Module and Color Mask Module
 
   ### Sections
-  - [ ] Resource Content: CSS Preprocessing Tools
-  - [ ] Tutorial Lab: Getting Started Transpiling SCSS into CSS
-  - [ ] Tutorial Lab: Build Desktop Header Section with Variables and Media Query Mixins
-  - [ ] Tutorial Lab: Create the Circle Image Frame Module and Color Mask Module
-  - [ ] Tutorial Lab: Create the Circle Image Frame Module and Color Mask Module
-  - [ ] Self-Assessment Lab: Updating Your CSS with Sass
+  - [x] Resource Content: CSS Preprocessing Tools
+  - [x] Tutorial Lab: Getting Started Transpiling SCSS into CSS
+  - [x] Tutorial Lab: Build Desktop Header Section with Variables and Media Query Mixins
+  - [x] Tutorial Lab: Create the Circle Image Frame Module and Color Mask Module
+  - [x] Tutorial Lab: Create the Circle Image Frame Module and Color Mask Module
+  - [x] Self-Assessment Lab: Updating Your CSS with Sass
   
 ***
 
@@ -74,9 +74,9 @@
   - Use SVG Images and Learn How to Add Them Using the New <picture> Tag
   
   ### Sections
-  - [ ] Resource Content: Tools for Testing and Supporting Web Apps
-  - [ ] Tutorial Lab: Finding and Fixing Issues in Web Pages
-  - [ ] Tutorial Lab: Using Flexbox to Maximize Available Space
-  - [ ] Tutorial Lab: Extending Grid Styles with Flexbox
-  - [ ] Tutorial Lab: Adding SVG Images Using the <picture> Tag
-  - [ ] Self-Assessment Lab: Flexbox and SVG Images
+  - [x] Resource Content: Tools for Testing and Supporting Web Apps
+  - [x] Tutorial Lab: Finding and Fixing Issues in Web Pages
+  - [x] Tutorial Lab: Using Flexbox to Maximize Available Space
+  - [x] Tutorial Lab: Extending Grid Styles with Flexbox
+  - [x] Tutorial Lab: Adding SVG Images Using the <picture> Tag
+  - [x] Self-Assessment Lab: Flexbox and SVG Images
