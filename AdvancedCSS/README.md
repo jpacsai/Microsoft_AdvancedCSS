@@ -64,9 +64,19 @@
 ***
 
 ## Module 4 - Supporting Browsers and Devices
+
+  ### 🔗 Link to [work](#), to [notes](#)
+  
   ### Objectives
   - Learn How Web Developer Tools and Linting Can Help you Find and Fix Issues
   - Use Flexbox on the Header, Logo, and Navigation to Maximize Available Space
   - Extend your Old Grid With Flexbox and Reverse a Row for Devices Small and Above
   - Use SVG Images and Learn How to Add Them Using the New <picture> Tag
   
+  ### Sections
+  - [ ] Resource Content: Tools for Testing and Supporting Web Apps
+  - [ ] Tutorial Lab: Finding and Fixing Issues in Web Pages
+  - [ ] Tutorial Lab: Using Flexbox to Maximize Available Space
+  - [ ] Tutorial Lab: Extending Grid Styles with Flexbox
+  - [ ] Tutorial Lab: Adding SVG Images Using the <picture> Tag
+  - [ ] Self-Assessment Lab: Flexbox and SVG Images
